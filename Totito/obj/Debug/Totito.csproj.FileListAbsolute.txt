@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\obj\Debug\Totito.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\obj\Debug\totito.Form1.resources
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\obj\Debug\Totito.Properties.Resources.resources
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\obj\Debug\Totito.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\obj\Debug\Totito.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\bin\Debug\Totito.exe.config
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\bin\Debug\Totito.exe
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\bin\Debug\Totito.pdb
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\obj\Debug\Totito.exe
+C:\Users\daniq\Documents\UdeO\progra\Totito\Totito\obj\Debug\Totito.pdb

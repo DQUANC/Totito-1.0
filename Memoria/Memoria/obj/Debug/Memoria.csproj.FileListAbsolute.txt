@@ -1,0 +1,10 @@
+C:\Users\daniq\source\repos\Memoria\Memoria\bin\Debug\Memoria.exe.config
+C:\Users\daniq\source\repos\Memoria\Memoria\bin\Debug\Memoria.exe
+C:\Users\daniq\source\repos\Memoria\Memoria\bin\Debug\Memoria.pdb
+C:\Users\daniq\source\repos\Memoria\Memoria\obj\Debug\Memoria.csproj.AssemblyReference.cache
+C:\Users\daniq\source\repos\Memoria\Memoria\obj\Debug\Memoria.Form1.resources
+C:\Users\daniq\source\repos\Memoria\Memoria\obj\Debug\Memoria.Properties.Resources.resources
+C:\Users\daniq\source\repos\Memoria\Memoria\obj\Debug\Memoria.csproj.GenerateResource.cache
+C:\Users\daniq\source\repos\Memoria\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+C:\Users\daniq\source\repos\Memoria\Memoria\obj\Debug\Memoria.exe
+C:\Users\daniq\source\repos\Memoria\Memoria\obj\Debug\Memoria.pdb
